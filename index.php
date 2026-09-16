@@ -9,6 +9,9 @@
     <h1>Hello World!</h1>
     <p>Lorem</p>
 
-    <ul>fakhri</ul>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 </html>
